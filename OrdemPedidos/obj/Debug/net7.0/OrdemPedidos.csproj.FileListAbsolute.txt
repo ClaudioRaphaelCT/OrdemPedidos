@@ -1,0 +1,14 @@
+C:\Users\crteixeira\Desktop\Arqvs\Pessoal\DEV\Csharp\OrdemPedidos\OrdemPedidos\bin\Debug\net7.0\OrdemPedidos.exe
+C:\Users\crteixeira\Desktop\Arqvs\Pessoal\DEV\Csharp\OrdemPedidos\OrdemPedidos\bin\Debug\net7.0\OrdemPedidos.deps.json
+C:\Users\crteixeira\Desktop\Arqvs\Pessoal\DEV\Csharp\OrdemPedidos\OrdemPedidos\bin\Debug\net7.0\OrdemPedidos.runtimeconfig.json
+C:\Users\crteixeira\Desktop\Arqvs\Pessoal\DEV\Csharp\OrdemPedidos\OrdemPedidos\bin\Debug\net7.0\OrdemPedidos.dll
+C:\Users\crteixeira\Desktop\Arqvs\Pessoal\DEV\Csharp\OrdemPedidos\OrdemPedidos\bin\Debug\net7.0\OrdemPedidos.pdb
+C:\Users\crteixeira\Desktop\Arqvs\Pessoal\DEV\Csharp\OrdemPedidos\OrdemPedidos\obj\Debug\net7.0\OrdemPedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crteixeira\Desktop\Arqvs\Pessoal\DEV\Csharp\OrdemPedidos\OrdemPedidos\obj\Debug\net7.0\OrdemPedidos.AssemblyInfoInputs.cache
+C:\Users\crteixeira\Desktop\Arqvs\Pessoal\DEV\Csharp\OrdemPedidos\OrdemPedidos\obj\Debug\net7.0\OrdemPedidos.AssemblyInfo.cs
+C:\Users\crteixeira\Desktop\Arqvs\Pessoal\DEV\Csharp\OrdemPedidos\OrdemPedidos\obj\Debug\net7.0\OrdemPedidos.csproj.CoreCompileInputs.cache
+C:\Users\crteixeira\Desktop\Arqvs\Pessoal\DEV\Csharp\OrdemPedidos\OrdemPedidos\obj\Debug\net7.0\OrdemPedidos.dll
+C:\Users\crteixeira\Desktop\Arqvs\Pessoal\DEV\Csharp\OrdemPedidos\OrdemPedidos\obj\Debug\net7.0\refint\OrdemPedidos.dll
+C:\Users\crteixeira\Desktop\Arqvs\Pessoal\DEV\Csharp\OrdemPedidos\OrdemPedidos\obj\Debug\net7.0\OrdemPedidos.pdb
+C:\Users\crteixeira\Desktop\Arqvs\Pessoal\DEV\Csharp\OrdemPedidos\OrdemPedidos\obj\Debug\net7.0\OrdemPedidos.genruntimeconfig.cache
+C:\Users\crteixeira\Desktop\Arqvs\Pessoal\DEV\Csharp\OrdemPedidos\OrdemPedidos\obj\Debug\net7.0\ref\OrdemPedidos.dll
